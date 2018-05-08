@@ -1,4 +1,4 @@
-package cn.sevendream.springbootstudy;
+package cn.sevendream.springbootstudy.controller;
 
 import cn.sevendream.springbootstudy.dao.UserLoginMapper;
 import cn.sevendream.springbootstudy.model.UserLogin;
