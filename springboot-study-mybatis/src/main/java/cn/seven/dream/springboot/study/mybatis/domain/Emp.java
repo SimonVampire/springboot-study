@@ -1,0 +1,15 @@
+package cn.seven.dream.springboot.study.mybatis.domain;
+
+import lombok.Data;
+
+@Data
+public class Emp {
+    private Integer id;
+
+    private String ename;
+
+    private Float sal;
+
+    private Integer deptId;
+
+}
